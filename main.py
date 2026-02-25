@@ -13,7 +13,7 @@ from telethon.errors import (
 )
 
 # ================= CONFIG =================
-TARGET_BOT = "bot user name"   # bypass bot username
+TARGET_BOT = "Leaskdd_bases_bot"   # bypass bot username
 SESSION = "ultimate.session"
 
 API_HOST = "0.0.0.0"
